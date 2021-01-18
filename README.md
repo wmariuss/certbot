@@ -1,6 +1,6 @@
 # Certbot
 
-Generate and renew SSL certificate using `certbot` and `Let's Encrypt`.
+Generate and renew SSL certificate using `certbot` and `Let's Encrypt` based on DNS names (Route53).
 
 ## Requirements
 
@@ -32,4 +32,4 @@ Check [GitHub Flow](https://guides.github.com/introduction/flow/) for details.
 
 ## Authors
 
-DevOps Community.
+Marius Stanca
